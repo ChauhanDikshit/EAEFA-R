@@ -1,2 +1,2 @@
 # EAEFA-R
-The repository will be updated soon.
+The repository will be update soon.
